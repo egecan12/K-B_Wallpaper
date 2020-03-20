@@ -17,11 +17,11 @@ if (empty($_POST["email"])) {
 }
 
 // MSG Guest
-if (empty($_POST["guest"])) {
-    $errorMSG .= "Subject is required ";
-} else {
+// if (empty($_POST["guest"])) {
+//     $errorMSG .= "Subject is required ";
+// } else {
     $guest = $_POST["guest"];
-}
+// }
 
 
 // // MSG Event
