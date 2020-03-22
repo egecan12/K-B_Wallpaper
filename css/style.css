@@ -27,6 +27,12 @@ body {
 	font-family: 'Poppins', sans-serif;
 	line-height: 1.80857;
 }
+.message {
+	margin-top: 20px;
+	right: 100px;
+	width: 300px;
+	height: 100px;
+}
 
 a {
 	color: #1f1f1f;
